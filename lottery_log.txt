@@ -1,0 +1,12 @@
+2025-04-16 21:18:08.484059 - Registered: Romit
+2025-04-16 21:18:13.230103 - Registered: Akash
+2025-04-16 21:18:16.328190 - Registered: Sujal
+2025-04-16 21:18:19.203724 - Registered: Rohan
+2025-04-16 21:18:23.276349 - Registered: Krishna
+2025-04-16 21:18:29.764221 - Registered: Vishwajeet
+
+2025-04-16 21:18:36.499203 - Winner: Vishwajeet
+Total Participants: 6
+2025-04-16 21:22:46.266933 - Registered: avi
+2025-04-16 21:23:38.258794 - Registered: akash
+2025-04-16 21:24:02.021269 - Registered: rohan
